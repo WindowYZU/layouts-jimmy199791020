@@ -32,7 +32,7 @@ public class GridLayoutSample {
         
         //1. add 6 CustomComponent to the frame
         //2. resize the frame to see the effect
-        for(int i=0;i<6;i++);
+        for(int i=0;i<6;i++)
         {
             CustomComponent c=new CustomComponent();
             frame.add(c);
